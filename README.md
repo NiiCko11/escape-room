@@ -101,6 +101,11 @@ escape-room/
 ├── index.php
 └── README.md
 
+<img width="1913" height="928" alt="image" src="https://github.com/user-attachments/assets/ac549ea9-c830-4b1c-a402-71907ea22e9a" />
+<img width="1891" height="884" alt="image" src="https://github.com/user-attachments/assets/2f9883bc-8ea8-4194-9cf1-9e3cb187aec7" />
+<img width="1883" height="899" alt="image" src="https://github.com/user-attachments/assets/78c583cb-cccf-420d-81b4-77b89d8c9c14" />
+
+
 
 
 ## 👨‍💻 Autores
