@@ -8,7 +8,7 @@ El objetivo del juego es recuperar el acceso a un antiguo servidor resolviendo p
 
 # 📖 Historia
 
-📡 TRANSMISIÓN ENTRANTE — AÑO 2035
+📡 TRANSMISIÓN ENTRANTE 
 
 Un antiguo servidor de respaldo ha sido encontrado en una sala abandonada del datacenter.
 
